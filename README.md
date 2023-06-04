@@ -1,6 +1,6 @@
 # Data Mining Project
 
-This project file contains a full EDA (exploratory data analysis) and five distinct classification models that determined whether an indicidual made over $50K annually
+Full EDA (exploratory data analysis) and five distinct classification models that determined whether an indicidual made over $50K annually
 
 ## Task 1: Libraries and Importing the Dataset
 * Identifies the different libraries used to perfrom analysis of the dataset and a brief description of what they will be used for
